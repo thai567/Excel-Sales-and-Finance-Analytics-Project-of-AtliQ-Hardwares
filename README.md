@@ -3,9 +3,6 @@
 AtliQ, a company that sells hardware such as PCs, mice, printers, and other devices to various customers, serves two types of clients: physical stores known as brick-and-mortar establishments like Croma and Best Buy, and e-commerce platforms like Amazon and Flipkart. The business users at AtliQ have been provided with files containing over 1.5 million records to create sales and financial reports for the company.
 
 
-
-#  𝐓𝐡𝐞 𝐑𝐞𝐩𝐨𝐫𝐭 𝐜𝐨𝐧𝐬𝐢𝐬𝐭𝐬 𝐨𝐟: -
-
 # Sales Report
 1. Customer Net Sales Performance Report 
 2. Market Performance vs Target Report 
@@ -21,7 +18,7 @@ AtliQ, a company that sells hardware such as PCs, mice, printers, and other devi
 4. GM% Quartely
 
  
-# ➡️ 𝐒𝐭𝐞𝐩𝐬 𝐢𝐧𝐯𝐨𝐥𝐯𝐞𝐝 𝐢𝐧 𝐦𝐚𝐤𝐢𝐧𝐠 𝐭𝐡𝐢𝐬 𝐑𝐞𝐩𝐨𝐫𝐭: -
+# 𝐒𝐭𝐞𝐩𝐬 𝐢𝐧𝐯𝐨𝐥𝐯𝐞𝐝 𝐢𝐧 𝐦𝐚𝐤𝐢𝐧𝐠 𝐭𝐡𝐢𝐬 𝐑𝐞𝐩𝐨𝐫𝐭: -
 
 1. 𝐄𝐓𝐋 (𝐄𝐱𝐭𝐫𝐚𝐜𝐭 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐚𝐧𝐝 𝐋𝐨𝐚𝐝)
 Load all the CSV files that were provided, to Power Query. Ensured there were no missing values, all dimension tables contained a unique column, removed duplicate values, corrected the spelling errors, and in the end loaded the files in the Power Pivot.
@@ -41,11 +38,14 @@ Create 10 + new Measures such as Net sales for each year, Gross Margin, GM %, an
 5. 𝐂𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐅𝐨𝐫𝐦𝐚𝐭𝐭𝐢𝐧𝐠
 Applied Conditional Formatting to enhance data presentation by applying rules, and formatting numbers and text. This approach highlights important data, identifies trends, and improves overall data readability for more effective analysis.
 
-# 💡 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:-
-1. In 2021, India emerged as the top-performing market with the highest net sales of $161.3 million, while Sweden recorded the lowest sales at $1.8 million.
-2. The AQ Master Wired X1 MS proved to be the best-selling product, moving 4.2 million units, whereas the AQ Home Allin1 Gen2 had the lowest sales, with only 8.8 thousand units sold.  
-3. The top 3 customers contributing to the highest net sales were Amazon, AtliQ Exclusive, and AtliQ e-store.
-4. The introduction of 16 new products in 2021 showcased AQ's innovation, with the AQ Qwerty leading sales at 22 million units.
+#  𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:-
+1. The AQ Master Wired X1 MS was the best-selling product, with 4.2 million units sold, whereas the AQ Home Allin1 Gen2 had 
+   the lowest sales, with only 8.8 thousand units sold.
+2. The top three customers contributing to the highest net sales were Amazon, AtliQ Exclusive, and AtliQ e-store.
+3. In 2021, India emerged as the top-performing market with the highest net sales of $161.3 million, while Sweden recorded 
+   the lowest sales at $1.8 million.
+4. The introduction of 16 new products in 2021 showcased AQ's innovation, with the AQ Qwerty leading sales at 22 million 
+   units
 
 
 
